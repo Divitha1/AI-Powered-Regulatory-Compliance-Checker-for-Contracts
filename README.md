@@ -10,7 +10,7 @@ The project will be gradually extended in future stages toward more advanced app
 - To learn tokenization and normalization techniques.
 - To implement basic similarity algorithms.
 - To prepare a foundation for future development.
-- 
+  
 ## Tools & Technologies Used
 - Python
 - Google Colab
