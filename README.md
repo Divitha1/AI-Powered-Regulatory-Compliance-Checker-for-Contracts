@@ -1,4 +1,4 @@
-# AI-Powered-Regulatory-Compliance-Checker-for-Contracts# AI-Powered Regulatory Compliance Checker for Contracts
+# AI-Powered-Regulatory-Compliance-Checker-for-Contract
 
 ## Project Description
 This repository contains my learning and project work related to Python programming. In the initial stage, the focus is on building strong fundamentals such as code processing, tokenization, and similarity checking.
