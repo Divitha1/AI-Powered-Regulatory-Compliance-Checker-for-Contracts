@@ -1,31 +1,21 @@
-# AI-Powered-Regulatory-Compliance-Checker-for-Contract
+NumPy Array to Pandas Series – Mean Calculation
 
-## Project Description
-This repository contains my learning and project work related to Python programming. In the initial stage, the focus is on building strong fundamentals such as code processing, tokenization, and similarity checking.
-The project will be gradually extended in future stages toward more advanced applications.
+Overview
+This project demonstrates basic data manipulation using NumPy and Pandas in Python.
 
-## Project Objective
-- To improve Python programming skills.
-- To understand how source code can be analyzed.
-- To learn tokenization and normalization techniques.
-- To implement basic similarity algorithms.
-- To prepare a foundation for future development.
-  
-## Tools & Technologies Used
-- Python
-- Google Colab
-- tokenize
-- io
-- keyword
-- GitHub
+The task includes:
+1 Creating a numerical array using NumPy
+2 Converting the NumPy array into a Pandas Series
+3 Calculating the mean (average) of the values in the Series
 
-## Week 1: Basic Python Project – Code Similarity Checker
-### Work Done
-- Created a Python program to tokenize source code.
-- Normalized variable names, strings, and numbers.
-- Implemented Jaccard similarity for comparison.
-- Accepted multi-line user input.
-- Tested the program with sample code.
+Objective
+The main objective of this project is to understand how NumPy and Pandas work together for simple data analysis operations.
 
-### File
-- `code_plagiarism_checker.ipynb`
+Learning Outcome
+After completing this task, i got to understand:
+1.How numerical data is stored using NumPy arrays
+2.How data can be converted into a Pandas Series
+3.How to perform basic statistical operations like calculating the mean
+
+Conclusion
+This project provides a beginner-friendly introduction to using NumPy and Pandas for data handling and basic statistical analysis in Python.
